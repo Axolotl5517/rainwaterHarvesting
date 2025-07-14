@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": -0.7503767313158498,
           "pitch": 0.20588888610391187,
           "title": "雨水儲存系統",
-          "text": "<img src="img/sample.jpg" style="max-width: 100%; border-radius: 10px;">"
+          "text": "<img src=\"img/sample.jpg\" width=\"300\" />"
         }
       ]
     },
